@@ -1,0 +1,9 @@
+.venv/
+
+.idea/
+
+__pycache__/
+
+samsung_har/
+
+.DS_Store
